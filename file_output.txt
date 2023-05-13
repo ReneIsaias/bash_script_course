@@ -1,0 +1,17 @@
+10_stdin.sh
+11_stderr_stdout.sh
+1_helloworld.sh
+2_output.sh
+3_read.sh
+4_conditionals.sh
+5_logical_operator.sh
+6_case.sh
+7_loops.sh
+8_continue_break.sh
+9_arguments.sh
+all_files.txt
+escaneo_ip.txt
+file_error.txt
+file_output.txt
+hola_input.txt
+hola.txt

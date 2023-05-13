@@ -1,0 +1,20 @@
+total 72
+drwxr-xr-x  2 canserbero canserbero 4096 may 12 22:48 .
+drwxr-xr-x 10 canserbero canserbero 4096 may 12 16:04 ..
+-rwxr-xr-x  1 canserbero canserbero  166 may 12 22:35 10_stdin.sh
+-rwxr-xr-x  1 canserbero canserbero  526 may 12 22:47 11_stderr_stdout.sh
+-rwxr-xr-x  1 canserbero canserbero  388 may 12 22:26 1_helloworld.sh
+-rwxr-xr-x  1 canserbero canserbero  261 may 12 22:26 2_output.sh
+-rwxr-xr-x  1 canserbero canserbero  129 may 12 17:44 3_read.sh
+-rwxr-xr-x  1 canserbero canserbero  983 may 12 18:17 4_conditionals.sh
+-rwxr-xr-x  1 canserbero canserbero  591 may 12 22:27 5_logical_operator.sh
+-rwxr-xr-x  1 canserbero canserbero  628 may 12 19:03 6_case.sh
+-rwxr-xr-x  1 canserbero canserbero  529 may 12 19:20 7_loops.sh
+-rwxr-xr-x  1 canserbero canserbero  750 may 12 22:27 8_continue_break.sh
+-rwxr-xr-x  1 canserbero canserbero  441 may 12 22:28 9_arguments.sh
+-rw-r--r--  1 canserbero canserbero    0 may 12 22:48 all_files.txt
+-rw-r--r--  1 canserbero canserbero 1408 may 12 22:48 escaneo_ip.txt
+-rw-r--r--  1 canserbero canserbero   72 may 12 22:48 file_error.txt
+-rw-r--r--  1 canserbero canserbero  236 may 12 22:48 file_output.txt
+-rw-r--r--  1 canserbero canserbero   88 may 12 16:19 hola_input.txt
+-rw-r--r--  1 canserbero canserbero   53 may 12 16:15 hola.txt
